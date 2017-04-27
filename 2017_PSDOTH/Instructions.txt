@@ -1,0 +1,103 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: 2017_PSDOTH_factsheets.indd
+
+PACKAGE DATE: 4/25/17 12:15 AM
+Creation Date: 4/25/17
+Modification Date: 4/25/17
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page2
+
+FONTS
+12 Fonts Used; 0 Missing, 5 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Bembo; Type: Type 1, Status: OK
+- Name: Bembo-Bold; Type: Type 1, Status: OK
+- Name: Bembo-Italic; Type: Type 1, Status: OK
+- Name: GillSans-Bold; Type: TrueType, Status: Embedded
+- Name: GillSans-Bold; Type: TrueType, Status: OK
+- Name: GillSans-BoldCondensed; Type: Type 1, Status: Embedded
+- Name: GillSans-Heavy; Type: Type 1, Status: Embedded
+- Name: GillSans-Light; Type: TrueType, Status: Embedded
+- Name: GillSans-Light; Type: TrueType, Status: OK
+- Name: MyriadPro-Regular; Type: Type 1, Status: Embedded
+- Name: Times-Roman; Type: TrueType, Status: OK
+- Name: Webdings; Type: OpenType TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 4 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 2 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Xerox WorkCentre 7845, (Xerox WorkCentre 7845 (9C:93:4E:32:C7:14))
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 51p0 x 66p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. 2017_PSDOTH_factsheets.indd; type: Adobe InDesign publication; size: 2216K
+2. 2017_PSDOTH_factsheets.pdf; type: Adobe Acrobat Document; size: 516K
+3. Bembo; type: Font file; size: 0K
+4. Bembo.; type: Font file; size: 0K
+5. BemboBol; type: Font file; size: 0K
+6. Bembo_1; type: Font file; size: 0K
+7. BemboIta; type: Font file; size: 0K
+8. Bembo-Italic; type: Font file; size: 0K
+9. GillSans.ttc; type: Font file; size: 575K
+10. Times.dfont; type: Font file; size: 1581K
+11. Webdings.ttf; type: Font file; size: 121K
